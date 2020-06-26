@@ -2,6 +2,7 @@
 This repository contains image Classification for Autonomous Vehicle using Keras.
 
 Source: https://www.udemy.com/course/data-science-hands-on-1-hour-project-on-deep-learning/
+dataset: https://drive.google.com/drive/folders/1tu1BDZoxSv1Gg7iN_AVkqLy-HdoXt6wL?usp=sharing
 
 Following task are performed :
 * Importing necessary Libraries
@@ -12,7 +13,8 @@ Following task are performed :
 * Test model with the test dataset & oversee the performance of trained convolution neural network model
 * Saving the trained model
 
-Accuracy on trained data: 0.9482 
-Accuracy on validation data: 0.9372
+Accuracy on trained data: 0.9482,
+
+Accuracy on validation data: 0.9372,
 
 Accuracy on test data: 0.9171813130378723
